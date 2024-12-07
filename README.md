@@ -9,6 +9,8 @@ Junior Developer
     
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=standardwish&layout=compact&theme=dracula)
 
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,mysql&theme=light)](https://skillicons.dev)
+
 <h3>CONTACT ME</h3>
 <a href="https://velog.io/@zxvm5962/posts">
     <img src="http://img.shields.io/badge/Tech Blog-00D182?style=flat&logo=Emby&logoColor=white&link=https://velog.io/@987412563"
