@@ -7,9 +7,10 @@ Junior Developer
     
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=standardwish&layout=compact&theme=dracula)
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql&theme=light)](https://skillicons.dev)
+## Learning and Using
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,mysql,postgresql&theme=light)](https://skillicons.dev)
 
-<h3>CONTACT ME</h3>
+## CONTACT ME
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zxvm5962@hanyang.ac.kr)](mailto:zxvm5962@hanyang.ac.kr)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-00D182?style=flat&logo=Emby&logoColor=white&link=https://velog.io/@987412563)](https://velog.io/@987412563)
