@@ -20,3 +20,5 @@ Junior Developer
     <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://i987412563i@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%96%91%EB%B3%91%ED%98%84-813720309/)](https://www.linkedin.com/in/%EC%96%91%EB%B3%91%ED%98%84-813720309/)
