@@ -2,8 +2,9 @@
 <div style={{height:"10px"}} />
 Junior Developer
 
-![zxvm5962's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxvm5962&show_icons=true&theme=dracula)
-<div style={{height:"10px"}} />
+![github stats](https://github-readme-stats.vercel.app/api?username=zxvm5962&show_icons=true&count_private=true&theme=tokyonight)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zxvm5962)](https://solved.ac/zxvm5962)
     
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxvm5962&layout=compact&theme=dracula)
 
