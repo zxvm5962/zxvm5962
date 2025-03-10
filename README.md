@@ -5,7 +5,7 @@ Junior Developer
 ![zxvm5962's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxvm5962&show_icons=true&theme=dracula)
 <div style={{height:"10px"}} />
     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=standardwish&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxvm5962&layout=compact&theme=dracula)
 
 ## Learning and Using
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,mysql,postgresql&theme=light)](https://skillicons.dev)
